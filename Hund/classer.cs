@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 
 
-public class hund
+public class Hund
 {
 private int hunger;
 private int boredom;
@@ -16,7 +16,7 @@ private Random generator;
 public string name;
 
 
-public hund()
+public Hund()
   {
     generator = new Random();
     isAlive = true;
@@ -31,11 +31,12 @@ if (hunger > 0);
 {
   hunger = 0;
 }
-
-
-  }
+}
 
 }
+
+
+
   
 
 
