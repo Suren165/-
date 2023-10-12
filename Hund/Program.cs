@@ -1,9 +1,15 @@
 ﻿using System;
 
-hund h = new hund();
+
 
 Console.WriteLine("Välkommen till Mitt hund spel");
 
-Console.WriteLine("Vovven");
+hund h = new hund();
+
+Console.WriteLine("Vad vill du att din hund ska heta");
+
+
+
+
 
 

@@ -8,10 +8,12 @@ public class hund
 {
 private int hunger;
 private int boredom;
+
+private List <string> words = new List <string>() {"voff"};
 private bool isAlive;
 private Random generator;
-private List <string> words = new List <string> () {"voff"};
 
+public string name;
 
 
 public hund()
@@ -22,6 +24,14 @@ public hund()
 
   public void feed()
   {
+Console.WriteLine($"[{name}] Jag är full nu tack ");  
+
+hunger -=3;
+if (hunger > 0);
+{
+  hunger = 0;
+}
+
 
   }
 
