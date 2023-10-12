@@ -1,0 +1,15 @@
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\bin\Debug\net6.0\Hund.exe
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\bin\Debug\net6.0\Hund.deps.json
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\bin\Debug\net6.0\Hund.runtimeconfig.json
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\bin\Debug\net6.0\Hund.dll
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\bin\Debug\net6.0\Hund.pdb
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\Hund.csproj.AssemblyReference.cache
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\Hund.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\Hund.AssemblyInfoInputs.cache
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\Hund.AssemblyInfo.cs
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\Hund.csproj.CoreCompileInputs.cache
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\Hund.dll
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\refint\Hund.dll
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\Hund.pdb
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\Hund.genruntimeconfig.cache
+C:\Users\suren.arakelyan\Documents\Programering\Hund\Hund\obj\Debug\net6.0\ref\Hund.dll
